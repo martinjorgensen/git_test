@@ -1,2 +1,2 @@
 # git_test
-Dirst GitHub repo (Testing)
+First GitHub repo (Testing)
